@@ -90,3 +90,13 @@ Define **how the system should perform** — quality attributes like speed, secu
 * Search results load within 2 seconds.
 * App supports 50,000+ users simultaneously.
 
+## 📘 Use Case Diagrams
+
+Use Case Diagrams visually represent system interactions from an end-user perspective. They help identify system functionalities (use cases) and the actors involved.
+
+### Benefits:
+- Clarify system scope and user interactions
+- Aid communication among stakeholders
+- Support validation of functional requirements
+
+![alx-booking-uc.png](./A_use_case_diagram_for_a_booking_system_is_display.png)
