@@ -63,3 +63,30 @@ Below are the five essential activities performed during requirement analysis:
   * *Functional*: Stakeholders agree that “booking confirmation is emailed immediately upon payment.”
   * *Non‑Functional*: Users confirm that the app’s mobile layout works smoothly on devices with screen widths between 320px–760px.
     
+Sure! Here's a **concise version** of the **"Types of Requirements"** section for your `README.md`:
+
+---
+
+## 📂 Types of Requirements
+
+Requirements in software development are mainly categorized into:
+
+### 🔸 Functional Requirements
+
+Define **what the system should do** — specific features, actions, and behaviors.
+
+**Examples (Hotel Booking App):**
+
+* Users can search and book hotels.
+* Hosts can list and manage room availability.
+* Admins can approve or remove listings.
+
+### 🔹 Non-Functional Requirements
+
+Define **how the system should perform** — quality attributes like speed, security, and scalability.
+
+**Examples:**
+
+* Search results load within 2 seconds.
+* App supports 50,000+ users simultaneously.
+
