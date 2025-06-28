@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Why is Requirement Analysis Important?
+##  Why is Requirement Analysis Important?
 
 Requirement Analysis is a foundational step in the SDLC. Its importance can be highlighted through these key reasons:
 
@@ -19,7 +19,7 @@ Requirement Analysis is a foundational step in the SDLC. Its importance can be h
 
 ---
 
-## 🔧 Key Activities in Requirement Analysis
+##  Key Activities in Requirement Analysis
 
 Below are the five essential activities performed during requirement analysis:
 
@@ -67,11 +67,11 @@ Sure! Here's a **concise version** of the **"Types of Requirements"** section fo
 
 ---
 
-## 📂 Types of Requirements
+##  Types of Requirements
 
 Requirements in software development are mainly categorized into:
 
-### 🔸 Functional Requirements
+###  Functional Requirements
 
 Define **what the system should do** — specific features, actions, and behaviors.
 
@@ -81,7 +81,7 @@ Define **what the system should do** — specific features, actions, and behavio
 * Hosts can list and manage room availability.
 * Admins can approve or remove listings.
 
-### 🔹 Non-Functional Requirements
+### Non-Functional Requirements
 
 Define **how the system should perform** — quality attributes like speed, security, and scalability.
 
@@ -90,7 +90,7 @@ Define **how the system should perform** — quality attributes like speed, secu
 * Search results load within 2 seconds.
 * App supports 50,000+ users simultaneously.
 
-## 📘 Use Case Diagrams
+## Use Case Diagrams
 
 Use Case Diagrams visually represent system interactions from an end-user perspective. They help identify system functionalities (use cases) and the actors involved.
 
@@ -100,3 +100,34 @@ Use Case Diagrams visually represent system interactions from an end-user perspe
 - Support validation of functional requirements
 
 ![alx-booking-uc.png](./A_use_case_diagram_for_a_booking_system_is_display.png)
+
+Absolutely! Here's a clear and concise section you can add to your `README.md` titled **“Acceptance Criteria”**:
+
+---
+
+##  Acceptance Criteria
+
+**Acceptance Criteria** are the specific, measurable conditions that a software product must meet to be accepted by the client or end users. These criteria define the **boundaries of a user story or feature** and help ensure that all stakeholders have a common understanding of the feature's expected behavior.
+
+---
+
+### Importance in Requirement Analysis
+
+* **Clarifies expectations** between stakeholders and developers.
+* **Defines done**: What it means for a feature to be complete.
+* **Improves testability**: Provides a basis for writing test cases.
+* **Reduces ambiguity** in requirements and prevents scope creep.
+
+---
+
+###  Example: Checkout Feature (Hotel Booking System)
+
+**Feature**: Checkout – Allow users to confirm and pay for a hotel booking.
+
+**Acceptance Criteria**:
+
+1.  User must be able to review booking details before final payment.
+2.  System must support multiple payment methods (credit card, mobile money, etc.).
+3.  Payment must be processed securely and confirmation shown within 5 seconds.
+
+
